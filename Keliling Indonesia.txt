@@ -3,5 +3,4 @@
 - IKN
 - Pulau Button
 - Danau Toba
--  Jepang
 - Lombok
